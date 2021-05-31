@@ -101,3 +101,6 @@ Only including most significant ones
 * GPU Installation - Once the GPU market stabilizes, a GPU will be used for VM's and media encoding
 * Case upgrade - Hoping to upgrade case to ATX for better cooling, possible storage expansion
 * Mail Server - Will possibly implement a mail server for custom domain mail
+
+## Special Thanks
+> Special thanks to @santiago-espinosa for contributing to the project
