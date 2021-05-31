@@ -88,6 +88,7 @@ Only including most significant ones
 * Disabled Telenet
 * Secure remote access (ProFTPd, Root password, etc...)
 * Restricted share acceess
+</a>
 
 ## Skills Used
 * LAN/WAN Security Practices
