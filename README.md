@@ -2,10 +2,6 @@
 ## Table of Contents
 >- [Hardware :computer:](#hardware--computer-)
 >- [Unraid Setup](#unraid-setup)
->  * [Docker Containers](#docker-containers)
->  * [Applications / Plugins](#applications---plugins)
->  * [VM's](#vm-s)
->  * [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
 >- [Skills Used](#skills-used)
 >- [Project Roadmap](#project-roadmap)
 
@@ -39,6 +35,11 @@ Front Fan | Noctua NF-F12 PWM (120 mm)
 Side Fan | Noctua NF-A8 ULN (80 mm)
 
 ## Unraid Setup
+>- [Docker Containers](#docker-containers)
+>- [Applications / Plugins](#applications---plugins)
+>- [VM's](#vm-s)
+>- [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
+
 ### Docker Containers
 * Media Server :movie_camera:
   * binhex-delugevpn - Torrent downloader with Private Internet Access
