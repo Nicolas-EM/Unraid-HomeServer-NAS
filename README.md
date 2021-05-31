@@ -5,6 +5,7 @@
 >- [Skills Used](#skills-used)
 >- [Project Roadmap](#project-roadmap)
 
+
 ## Hardware :computer:
 Chosen with the help of r/CabaloftheBuildsmiths
 
@@ -34,12 +35,12 @@ CPU Cooler | Noctua NH-L9x65
 Front Fan | Noctua NF-F12 PWM (120 mm)
 Side Fan | Noctua NF-A8 ULN (80 mm)
 
+
 ## Unraid Setup
 >- [Docker Containers](#docker-containers)
 >- [Applications and Plugins](#applications-and-plugins)
 >- [Virtual Machines](#virtual-machines)
 >- [Security Measures :closed_lock_with_key:](#Security)
-
 
 ### Docker Containers
 * Media Server :movie_camera:
@@ -76,12 +77,11 @@ Only including most significant ones
 * ProFTPd - FTP access manager
 
 ### Virtual Machines
+>Due to the current GPU market, I was unable to acquire a GPU, limiting my use of VM's for daily drivers (and media encoding).
+>See Project Roadmap
 #### OS's
 * Windows 10
 * Ubuntu - Dev environment
-#### Notes
->Due to the current GPU market, I was unable to acquire a GPU, limiting my use of VM's for daily drivers (and media encoding).
->See Project Roadmap
 
 <a name="Security"/></a>
 ### Security Measures :closed_lock_with_key:
@@ -89,11 +89,13 @@ Only including most significant ones
 * Secure remote access (ProFTPd, Root password, etc...)
 * Restricted share access
 
+
 ## Skills Used
 * LAN/WAN Security Practices
 * DNS Setup (CNAME, DDNS, etc...)
 * Port Forwarding
 * Dockerized applications
+
 
 ## Project Roadmap
 * GPU Installation - Once the GPU market stabilizes, a GPU will be used for VM's and media encoding
