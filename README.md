@@ -36,9 +36,10 @@ Side Fan | Noctua NF-A8 ULN (80 mm)
 
 ## Unraid Setup
 >- [Docker Containers](#docker-containers)
->- [Applications / Plugins](#applications---plugins)
->- [VM's](#vm-s)
->- [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
+>- [Applications and Plugins](#applications-and-plugins)
+>- [Virtual Machines](#virtual-machines)
+>- [Security Measures :closed_lock_with_key:](#Security)
+
 
 ### Docker Containers
 * Media Server :movie_camera:
@@ -66,7 +67,7 @@ Side Fan | Noctua NF-A8 ULN (80 mm)
   * binhex-minecraftbedrockserver - Minecraft bedrock server
   * mealie - Recipe manager and meal planner
 
-### Applications / Plugins
+### Applications and Plugins
 Only including most significant ones
 * Community Applications - Unraid "app store"
 * Appdata Cleanup - Unused data deletion
@@ -74,7 +75,7 @@ Only including most significant ones
 * Dyanmix Wireguard - Remote tunneled access to Server LAN
 * ProFTPd - FTP access manager
 
-### VM's
+### Virtual Machines
 #### OS's
 * Windows 10
 * Ubuntu - Dev environment
@@ -82,6 +83,7 @@ Only including most significant ones
 >Due to the current GPU market, I was unable to acquire a GPU, limiting my use of VM's for daily drivers (and media encoding).
 >See Project Roadmap
 
+<a name="Security"/>
 ### Security Measures :closed_lock_with_key:
 * Disabled Telenet
 * Secure remote access (ProFTPd, Root password, etc...)
