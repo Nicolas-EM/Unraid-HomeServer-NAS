@@ -5,14 +5,9 @@
 >  * [Docker Containers](#docker-containers)
 >  * [Applications / Plugins](#applications---plugins)
 >  * [VM's](#vm-s)
->    + [OS's](#os-s)
->    + [Notes](#notes)
 >  * [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
 >- [Skills Used](#skills-used)
 >- [Project Roadmap](#project-roadmap)
->  * [Future upgrades](#future-upgrades)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Hardware :computer:
 Chosen with the help of r/CabaloftheBuildsmiths
@@ -33,9 +28,10 @@ Storage | Use |
 8TB HDD | Parity Drive
 500GB SSD | Cache
 
-Mini ITX was chosen due to my current living situation, and as I had never built a Mini ITX PC I had some initial trouble dealing with the case size.
-After using the server for a couple of days I realized the case-included CoolerMaster fans and stock Intel CPU cooler were insufficent for cooling.
-The resulting cooling setup is:
+>Mini ITX was chosen due to my current living situation, and as I had never built a Mini ITX PC I had some initial trouble dealing with the case size.
+>After using the server for a couple of days I realized the case-included CoolerMaster fans and stock Intel CPU cooler were insufficent for cooling.
+>The resulting cooling setup is:
+
 Type | Cooling
 ------------ | -------------
 CPU Cooler | Noctua NH-L9x65 
@@ -82,8 +78,8 @@ Only including most significant ones
 * Windows 10
 * Ubuntu - Dev environment
 #### Notes
-Due to the current GPU market, I was unable to acquire a GPU, limiting my use of VM's for daily drivers (and media encoding).
-See Project Roadmap
+>Due to the current GPU market, I was unable to acquire a GPU, limiting my use of VM's for daily drivers (and media encoding).
+>See Project Roadmap
 
 ### Security Measures :closed_lock_with_key:
 * Disabled Telenet
@@ -97,7 +93,6 @@ See Project Roadmap
 * Dockerized applications
 
 ## Project Roadmap
-### Future upgrades
 * GPU Installation - Once the GPU market stabilizes, a GPU will be used for VM's and media encoding
 * Case upgrade - Hoping to upgrade case to ATX for better cooling, possible storage expansion
 * Mail Server - Will possibly implement a mail server for custom domain mail
