@@ -1,8 +1,11 @@
 # Unraid HomeServer / NAS
 ## Table of Contents
 [Hardware](#Hardware)
+
 [Unraid Setup](#Setup)
+
 [Skills Used / Learned](#Skills)
+
 [Project Roadmap](#Roadmap)
 
 <a name="Hardware"/>
