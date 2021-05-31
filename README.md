@@ -1,13 +1,11 @@
 # Unraid HomeServer / NAS
 ## Table of Contents
 [Hardware](#Hardware)
+[Unraid Setup](#Setup)
+[Skills Used / Learned](#Skills)
+[Project Roadmap](#Roadmap)
 
-[Unraid Setup](#Unraid Setup)
-
-[Skills Used / Learned](#Skills Used / Learned)
-
-[Project Roadmap](#Project Roadmap)
-
+<a name="Hardware"/>
 ## Hardware :computer:
 Chosen with the help of r/CabaloftheBuildsmiths
 
@@ -36,6 +34,7 @@ CPU Cooler | Noctua NH-L9x65
 Front Fan | Noctua NF-F12 PWM (120 mm)
 Side Fan | Noctua NF-A8 ULN (80 mm)
 
+<a name="Setup"/>
 ## Unraid Setup
 ### Docker Containers
 * Media Server :movie_camera:
@@ -84,12 +83,14 @@ See Project Roadmap
 * Secure remote access (ProFTPd, Root password, etc...)
 * Restricted share acceess
 
+<a name="Skills"/>
 ## Skills Used / Learned
 * LAN/WAN Security Practices
 * DNS Setup (CNAME, DDNS, etc...)
 * Port Forwarding
 * Dockerized applications
 
+<a name="Roadmap"/>
 ## Project Roadmap
 ### Future upgrades
 * GPU Installation - Once the GPU market stabilizes, a GPU will be used for VM's and media encoding
