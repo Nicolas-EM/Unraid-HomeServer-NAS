@@ -1,16 +1,16 @@
 # Unraid HomeServer / NAS
 ## Table of Contents
-- [Hardware :computer:](#hardware--computer-)
-- [Unraid Setup](#unraid-setup)
-  * [Docker Containers](#docker-containers)
-  * [Applications / Plugins](#applications---plugins)
-  * [VM's](#vm-s)
-    + [OS's](#os-s)
-    + [Notes](#notes)
-  * [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
-- [Skills Used](#skills-used)
-- [Project Roadmap](#project-roadmap)
-  * [Future upgrades](#future-upgrades)
+>- [Hardware :computer:](#hardware--computer-)
+>- [Unraid Setup](#unraid-setup)
+>  * [Docker Containers](#docker-containers)
+>  * [Applications / Plugins](#applications---plugins)
+>  * [VM's](#vm-s)
+>    + [OS's](#os-s)
+>    + [Notes](#notes)
+>  * [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
+>- [Skills Used](#skills-used)
+>- [Project Roadmap](#project-roadmap)
+>  * [Future upgrades](#future-upgrades)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
