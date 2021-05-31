@@ -8,7 +8,7 @@
     + [OS's](#os-s)
     + [Notes](#notes)
   * [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
-- [Skills Used / Learned](#skills-used---learned)
+- [Skills Used](#skills-used)
 - [Project Roadmap](#project-roadmap)
   * [Future upgrades](#future-upgrades)
 
@@ -90,7 +90,7 @@ See Project Roadmap
 * Secure remote access (ProFTPd, Root password, etc...)
 * Restricted share acceess
 
-## Skills Used / Learned
+## Skills Used
 * LAN/WAN Security Practices
 * DNS Setup (CNAME, DDNS, etc...)
 * Port Forwarding
