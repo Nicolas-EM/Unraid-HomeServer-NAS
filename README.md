@@ -83,12 +83,11 @@ Only including most significant ones
 >Due to the current GPU market, I was unable to acquire a GPU, limiting my use of VM's for daily drivers (and media encoding).
 >See Project Roadmap
 
-<a name="Security"/>
+<a name="Security"/></a>
 ### Security Measures :closed_lock_with_key:
 * Disabled Telenet
 * Secure remote access (ProFTPd, Root password, etc...)
-* Restricted share acceess
-</a>
+* Restricted share access
 
 ## Skills Used
 * LAN/WAN Security Practices
