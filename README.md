@@ -1,14 +1,19 @@
 # Unraid HomeServer / NAS
 ## Table of Contents
-[Hardware](#Hardware)
+- [Hardware :computer:](#hardware--computer-)
+- [Unraid Setup](#unraid-setup)
+  * [Docker Containers](#docker-containers)
+  * [Applications / Plugins](#applications---plugins)
+  * [VM's](#vm-s)
+    + [OS's](#os-s)
+    + [Notes](#notes)
+  * [Security Measures :closed_lock_with_key:](#security-measures--closed-lock-with-key-)
+- [Skills Used / Learned](#skills-used---learned)
+- [Project Roadmap](#project-roadmap)
+  * [Future upgrades](#future-upgrades)
 
-[Unraid Setup](#Setup)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-[Skills Used / Learned](#Skills)
-
-[Project Roadmap](#Roadmap)
-
-<a name="Hardware"/>
 ## Hardware :computer:
 Chosen with the help of r/CabaloftheBuildsmiths
 
@@ -37,7 +42,6 @@ CPU Cooler | Noctua NH-L9x65
 Front Fan | Noctua NF-F12 PWM (120 mm)
 Side Fan | Noctua NF-A8 ULN (80 mm)
 
-<a name="Setup"/>
 ## Unraid Setup
 ### Docker Containers
 * Media Server :movie_camera:
@@ -86,14 +90,12 @@ See Project Roadmap
 * Secure remote access (ProFTPd, Root password, etc...)
 * Restricted share acceess
 
-<a name="Skills"/>
 ## Skills Used / Learned
 * LAN/WAN Security Practices
 * DNS Setup (CNAME, DDNS, etc...)
 * Port Forwarding
 * Dockerized applications
 
-<a name="Roadmap"/>
 ## Project Roadmap
 ### Future upgrades
 * GPU Installation - Once the GPU market stabilizes, a GPU will be used for VM's and media encoding
