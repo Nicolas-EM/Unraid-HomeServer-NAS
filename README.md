@@ -103,4 +103,4 @@ Only including most significant ones
 * Mail Server - Will possibly implement a mail server for custom domain mail
 
 ## Special Thanks
-> Special thanks to @santiago-espinosa for contributing to the project
+> Special thanks to [santiago-espinosa](https://github.com/santiago-espinosa) for contributing to the project
