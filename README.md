@@ -30,29 +30,29 @@ Side Fan | Noctua NF-A8 ULN (80 mm)
 ## Unraid Setup
 ### Docker Containers
 * Media Server :movie_camera:
- * binhex-delugevpn - Torrent downloader with Private Internet Access
- * binhex-jackett - Indexer manager
- * binhex-nzbhydra2 - NZB indexer
- * binhex-plex - Media streaming platform
- * binhex-radarr - Movie tracker
- * binhex-sonarr - TV Show tracker
- * requestrr - discord bot for media requests
+  * binhex-delugevpn - Torrent downloader with Private Internet Access
+  * binhex-jackett - Indexer manager
+  * binhex-nzbhydra2 - NZB indexer
+  * binhex-plex - Media streaming platform
+  * binhex-radarr - Movie tracker
+  * binhex-sonarr - TV Show tracker
+  * requestrr - discord bot for media requests
 * Books :books:
- * calibre -  E-book manager
- * calibre web - Web app for calibre
- * readarr - Ebook tracker
+  * calibre -  E-book manager
+  * calibre web - Web app for calibre
+  * readarr - Ebook tracker
 * Cloud storage :floppy_disk:
- * mariadb - Relational database back-end
- * nextcloud - Front-end
+  * mariadb - Relational database back-end
+  * nextcloud - Front-end
 * File backup
- * Syncthing - File synchronization
+  * Syncthing - File synchronization
 * Remote access
- * Namecheap-DDNS - Updates namecheap domain dynamic ip
- * swag - Secure Web Application Gateway, Nginx webserver and reverse proxy
+  * Namecheap-DDNS - Updates namecheap domain dynamic ip
+  * swag - Secure Web Application Gateway, Nginx webserver and reverse proxy
 * Other
- * pihole template - Pihole DNS for network wide adblocking
- * binhex-minecraftbedrockserver - Minecraft bedrock server
- * mealie - Recipe manager and meal planner
+  * pihole template - Pihole DNS for network wide adblocking
+  * binhex-minecraftbedrockserver - Minecraft bedrock server
+  * mealie - Recipe manager and meal planner
 
 ### Applications / Plugins
 Only including most significant ones
