@@ -4,6 +4,7 @@
 >- [Unraid Setup](#unraid-setup)
 >- [Skills Used](#skills-used)
 >- [Project Roadmap](#project-roadmap)
+>- [Special Thanks](#special-thanks)
 
 
 ## Hardware :computer:
